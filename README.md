@@ -37,13 +37,11 @@ Multiple state-of-the-art semantic segmentation models are implemented and compa
 
 ---
 
-## 🖼️ Sample Outputs
+## 🖼️ Sample Results with Grad-CAM
 
-| Input                  | Ground Truth          | Prediction            |
-| ---------------------- | --------------------- | --------------------- |
-| ![](Image1_Orginal) | ![](Image1_Predicted_Mask) | ![](Image1_HC) |
-
----
+| Input | Ground Truth | Prediction | Grad-CAM |
+|------|-------------|------------|----------|
+| ![](Outputs/Image1_Original.png) | ![](Outputs/Image1_HC.png) | ![](Outputs/Image1_Predicted_Mask.png) | ![](Outputs/Image_GradCAM.png) |
 
 ## ⚙️ Tech Stack
 
