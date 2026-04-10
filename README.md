@@ -41,7 +41,7 @@ Multiple state-of-the-art semantic segmentation models are implemented and compa
 
 | Input                  | Ground Truth          | Prediction            |
 | ---------------------- | --------------------- | --------------------- |
-| ![](outputs/input.png) | ![](outputs/mask.png) | ![](outputs/pred.png) |
+| ![](Image1_Orginal) | ![](Image1_Predicted_Mask) | ![](Image1_HC) |
 
 ---
 
