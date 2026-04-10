@@ -33,7 +33,7 @@ Multiple state-of-the-art semantic segmentation models are implemented and compa
 | DeepLabV3        | 0.87       | 0.80      |
 | Attention UNet   | 0.88       | 0.81      |
 | UNet++           | 0.89       | 0.83      |
-| ⭐ Proposed Model | **0.91**   | **0.85**  |
+| ⭐ Proposed Model(UNet + MIT_B2) | **0.91**   | **0.85**  |
 
 ---
 
